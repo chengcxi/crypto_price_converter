@@ -4,9 +4,6 @@ from dotenv import load_dotenv
 import requests
 import csv
 
-# load_dotenv()
-
-# FIXER_API = os.getenv("FIXER_API")
 
 # get rate by calling fixer API
 
