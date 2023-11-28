@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import MyComponent from './MyComponent';
-
+import CategoryDropdown from './CategoryDropdown';
+import ChakraBoxExample from './ChakraBoxExample';
 function App() {
   return (
     <div className="App">
-      <MyComponent />
+      <CategoryDropdown/>
+      <ChakraBoxExample />
     </div>
   );
 }
